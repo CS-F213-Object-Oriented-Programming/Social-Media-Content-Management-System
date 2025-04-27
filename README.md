@@ -1,7 +1,7 @@
 Social Media Management System - Detailed Project Explanation
 ==============================================================
 
-DISCLAIMER: 
+**DISCLAIMER**: 
 1. Before running the program , please configure the external jar files present in the lib folder through build path (Eclipse User Only).
 
 2. Before using the Market Analyst , please create accounts of either Admin or Content Creator and post some content or follow some users.
